@@ -1,16 +1,34 @@
-# qoutes_app
+# 📜 Quote App - Inspirational Quotes
 
-A new Flutter project.
+A Flutter app that displays random inspirational quotes with a refreshing button click, using **Flutter** and **GetX**.
 
-## Getting Started
+## ✨ Features
+- 📝 Displays a random inspirational quote along with the author's name.
+- 🔄 Refreshes the quote with a single button click.
+- 🎨 Simple, elegant, and smooth UI.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- **Flutter** 💙 - For building the UI.
+- **GetX** ⚡ - For efficient state management.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run?
+1. Ensure **Flutter** is installed on your system.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/AhmedSaleh74/Quote-Application.git
+   ```
+3. Navigate to the project directory:
+   ```bash
+   cd Quote-Application
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 Screenshot
+_(You can add an image here after running the app)_
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Made with Ahmed M Saleh. 😃🔥
