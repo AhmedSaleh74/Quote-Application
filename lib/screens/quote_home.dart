@@ -15,9 +15,9 @@ class QuoteHome extends StatelessWidget {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
-              Colors.deepPurple,
-              Colors.purpleAccent,
-              Colors.pinkAccent,
+              Color(0xFF0F2027), // Dark Blue-Gray
+              Color(0xFF203A43), // Dark Cyan-Gray
+              Color(0xFF2C5364), // Deep Teal
             ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
@@ -65,7 +65,14 @@ class QuoteHome extends StatelessWidget {
                     padding: EdgeInsets.symmetric(vertical: 15, horizontal: 30),
                     decoration: BoxDecoration(
                       gradient: LinearGradient(
-                        colors: [Colors.orange, Colors.deepOrange],
+                        colors: [
+                          Color(
+                              0xFF1E3C72), // Navy Blue - لون أزرق داكن لكنه واضح
+                          Color(
+                              0xFF2A5298), // Royal Blue - لون أزرق ملكي فاتح شوية
+                          Color(
+                              0xFF4C669F), // Muted Blue - أزرق بلمسة رمادية هادئة
+                        ],
                       ),
                       borderRadius: BorderRadius.circular(30),
                       boxShadow: [
