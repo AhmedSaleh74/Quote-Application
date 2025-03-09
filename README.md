@@ -27,7 +27,7 @@ A Flutter app that displays random inspirational quotes with a refreshing button
    ```
 
 ## 📷 Screenshot
-_(You can add an image here after running the app)_
+![App Screenshot](assets/screenshots/app_preview.png)
 
 ---
 
